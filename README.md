@@ -8,5 +8,7 @@ Title: Campus Student Community - Door way to Canada<br>
 https://uxfol.io/p/49c689e3/025d7c94<br>
 Figma prototype can be found from the bottom of web protfolio, feel free to play around
 ---
+![](https://www.figma.com/proto/QoXCPgpbnu8yVtmoJOLygf/CCC_Henry_WAT?page-id=1%3A1806&type=design&node-id=77-1116&viewport=1214%2C-128%2C0.06&t=r2UDcJi2NiKsANPj-1&scaling=scale-down&mode=design)
+---
 ![](Campus_Student_Comm_UIUX_protfo.png)
 
